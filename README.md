@@ -50,11 +50,11 @@ Prompt iteration → Selection**
 
 ### 异界回响
 
-Audio file: [`audio/异界回响.mp3`](audio/异界回响.mp3)
+[`异界回响.mp3`](异界回响.mp3)
 
 ### 走廊尽头
 
-Audio file: [`audio/走廊尽头.mp3`](audio/走廊尽头.mp3)
+[`走廊尽头.mp3`](走廊尽头.mp3)
 
 ## Skills Demonstrated
 
